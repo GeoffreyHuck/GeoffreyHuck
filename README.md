@@ -6,7 +6,8 @@
   </div>
   <!-- <img src="https://komarev.com/ghpvc/?username=GeoffreyHuck&style=flat-square&color=blue" alt=""/> -->
 </div>
-### Hi there 👋
+
+### Hey-hey! 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GeoffreyHuck&theme=transparent&mode=weekly)](https://git.io/streak-stats)
 
