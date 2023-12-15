@@ -1,3 +1,5 @@
+Independant Consultant • Developer • Trainer • Coach
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/geoffrey-huck/">
@@ -6,8 +8,6 @@
   </div>
   <!-- <img src="https://komarev.com/ghpvc/?username=GeoffreyHuck&style=flat-square&color=blue" alt=""/> -->
 </div>
-
-### Hey-hey! 👋
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GeoffreyHuck&theme=merko&mode=weekly" alt="Geoffrey Huck GitHub Stats" /></a>
