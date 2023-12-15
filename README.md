@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.licdn.com/dms/image/C4E03AQH13mIdrsnlxg/profile-displayphoto-shrink_400_400/0/1651134888028?e=1707955200&v=beta&t=bohDD8AEEfTUB4uNyD5pxD1ybEvqZdfe1aIPLvBpTl0" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!--
