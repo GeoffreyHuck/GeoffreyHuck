@@ -15,6 +15,7 @@ I do consulting, development, and training.
 I work independently as a freelancer, so you can contact me directly to talk about your challenges.
 
 Email: geoffrey[AT]geot.fr (Replace [AT] with @)
+
 Phone: +33 6·77·41·27·32
 
 You can find out more about me on my LinkedIn page:
