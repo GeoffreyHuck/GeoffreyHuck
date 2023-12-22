@@ -1,6 +1,6 @@
 I mostly work with company projects that are not open-source.
 
-But you can have a glimpse of what I'm doing thanks to France-IOI (https://www.france-ioi.org), a French association which releases all their projects as open-source.
+But you can have a glimpse of what I'm doing thanks to [France-IOI](https://www.france-ioi.org), a French association which releases all their projects as open-source.
 
 Business owners and project leaders turn to me when:
 - They launch a new projects and are afraid to fail
