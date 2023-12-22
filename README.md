@@ -1,4 +1,21 @@
-Independant Consultant • Developer • Trainer • Coach
+I mostly work with company projects that are not open-source.
+
+But you can have a glimpse of what I'm doing thanks to [France-IOI](https://www.france-ioi.org/index.html), a French association which releases all their projects as open-source.
+
+Business owners and project leaders turn to me when:
+- They launch a new projects and are afraid to fail
+- They are frustrated by the time their developments take
+- They are overhelmed by user requests related to bugs in their systems
+- They want to improve an existing project
+
+I do consulting, development, and training.
+
+I work independently as a freelancer, so you can contact me directly to talk about your challenges.
+
+Email: geoffrey[AT]geot.fr (Replace [AT] with @)
+Phone: +33 6·77·41·27·32
+
+You can find out more about me on my LinkedIn page:
 
 <div id="header" align="center">
   <div id="badges">
