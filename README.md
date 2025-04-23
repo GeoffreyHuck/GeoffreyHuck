@@ -2,17 +2,13 @@ I mostly work on company projects that are not open-source.
 
 But you can have a glimpse of what I'm doing thanks to [France-IOI](https://www.france-ioi.org), a French association whose aim is to teach algorithmic to young populations, which releases all their projects as open-source.
 
-I am a consultant and trainer. I solve tech and strategic challenges for small and midsize organizations.
+Relevant projects:
+- [AlgoreaBackend](https://github.com/France-ioi/AlgoreaBackend), a backend for an e-learning platform developed with Go
+- [Codecast](https://github.com/France-ioi/Codecast), an interactive debugger for Python in the browser developed with Typescript and React
 
-Business owners and project leaders turn to me when:
-- They launch a new projects and are afraid to fail
-- They are frustrated by the time their developments take
-- They are overhelmed by user requests related to bugs in their systems
-- They want to improve an existing project
+I am a software engineer, consultant and public speaking coach. I love solving tech and strategic challenges.
 
-I do consulting, development, and training.
-
-I work independently as a freelancer, so you can contact me directly to talk about your challenges.
+I work as a freelancer, you can contact me directly with the info below:
 
 Email: geoffrey[AT]geot.fr (Replace [AT] with @)
 
@@ -28,14 +24,7 @@ You can find out more about me on my LinkedIn page:
   </div>
   <!-- <img src="https://komarev.com/ghpvc/?username=GeoffreyHuck&style=flat-square&color=blue" alt=""/> -->
 </div>
-<br /><br />
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GeoffreyHuck&theme=merko&mode=weekly" alt="Geoffrey Huck GitHub Stats" /></a>
-  <!--
-  <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffreyHuck&layout=compact&theme=vision-friendly-dark" alt="Geoffrey Huck Top Languages" /></a>
-  -->
-</div>
+
 
 <!--
 **GeoffreyHuck/GeoffreyHuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
