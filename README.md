@@ -1,3 +1,5 @@
+Former software engineer turned <a href="https://geoffreyhuck.com">Public Speaking Coach</a>.
+
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/geoffrey-huck/">
