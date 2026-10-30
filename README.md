@@ -1,4 +1,4 @@
-Former software engineer turned <a href="https://geoffreyhuck.com">Public Speaking Coach</a>.
+Freelance software engineer with 15 years of experience and <a href="https://courageous-communication.com/">Public Speaking Coach</a>.
 
 <div id="header" align="center">
   <div id="badges">
